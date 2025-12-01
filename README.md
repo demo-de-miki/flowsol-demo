@@ -447,10 +447,6 @@ await program.methods
 
 ---
 
-## 🤝 贡献指南
-
-欢迎贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详情。
-
 ### 开发流程
 
 1. Fork 本仓库
@@ -465,13 +461,6 @@ await program.methods
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
----
-
-## 📞 联系方式
-
-- **项目主页**: [https://github.com/yourusername/flowsol-demo](https://github.com/yourusername/flowsol-demo)
-- **问题反馈**: [GitHub Issues](https://github.com/yourusername/flowsol-demo/issues)
-- **讨论区**: [GitHub Discussions](https://github.com/yourusername/flowsol-demo/discussions)
 
 ---
 
@@ -571,14 +560,7 @@ Visit http://localhost:3000
 
 For detailed documentation, please refer to:
 - [Deployment Guide](DEPLOYMENT.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [API Documentation](docs/API.md)
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
@@ -586,12 +568,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
----
-
-## 📞 Contact
-
-- **GitHub**: [https://github.com/yourusername/flowsol-demo](https://github.com/yourusername/flowsol-demo)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/flowsol-demo/issues)
 
 ---
 
